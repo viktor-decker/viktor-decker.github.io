@@ -9,10 +9,10 @@ nav_order: 3
 
 Life-course Differences in Occupational Mobility between Vocationall and Generally Trained Workers in Germany (2023) Viktor Decker, Thijs Bol, Hanno Kruse.
 [Replication file](https://github.com/vvdecker/occupational-mobility).
-
-
-
-
+  
+  
+  
+  
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
