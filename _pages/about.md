@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+description: My personal website with publications, code and all that...
 permalink: /
 subtitle: <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html'>University of Amsterdam</a>.
 
