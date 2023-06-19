@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='v.v.decker@uva.nl'>v.v.decker@uva.nl</a>.</p>
+    <p><a href='mailto: v.v.decker@uva.nl'>v.v.decker@uva.nl</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
