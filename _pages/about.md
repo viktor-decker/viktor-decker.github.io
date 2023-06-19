@@ -20,3 +20,5 @@ social: false # includes social icons at the bottom of the page
 I am a Sociology PhD student at University of Amsterdam. I am interested in how education affects careers on the labor market and work in a project called "From School to Career: Towards A Career Perspective on the Labor Market Returns to Education (CAREER)" where I examine just that. The project is headed by [Thijs Bol](https://thijsbol.com/). Together with our colleagues we aim to develop a better understanding of workers’ employment trajectories in the context of changing labour markets. 
 
 Check out our [website](https://careerproject.eu/) to learn more and follow us on [Twitter](https://twitter.com/CAREER_erc).
+
+To find replication files for my publications check the [repositories](https://viktor-decker.github.io/repositories/) section.
