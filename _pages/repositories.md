@@ -2,13 +2,16 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Find replication files for all publications here.
 nav: true
 nav_order: 3
 ---
 
 Life-course Differences in Occupational Mobility between Vocationall and Generally Trained Workers in Germany (2023) Viktor Decker, Thijs Bol, Hanno Kruse.
-[Code](https://github.com/vvdecker/occupational-mobility).
+[Replication file](https://github.com/vvdecker/occupational-mobility).
+
+
+
 
 ## GitHub Repositories
 
