@@ -16,10 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Does this work?
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Sociology PhD student at University of Amsterdam. I am interested in how education affects careers on the labor market and work in a project called "From School to Career: Towards A Career Perspective on the Labor Market Returns to Education (CAREER)" where I examine just that. The project is headed by [Thijs Bol](https://thijsbol.com/). Together with our colleagues we aim to develop a better understanding of workers’ employment trajectories in the context of changing labour markets. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Check out our [website](https://careerproject.eu/) to learn more and follow us on [Twitter](https://twitter.com/CAREER_erc).
