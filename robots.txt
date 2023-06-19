@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://viktor-decker.github.io/about/sitemap.xml
+Sitemap: https://viktor-decker.github.io//about//sitemap.xml
