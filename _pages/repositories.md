@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Find replication files for all publications here.
+description: Find replication files for my publications here.
 nav: true
 nav_order: 4
 ---
 
-Life-course Differences in Occupational Mobility between Vocationall and Generally Trained Workers in Germany (2023) Viktor Decker, Thijs Bol, Hanno Kruse.
+Decker, Viktor, Thijs Bol, and Hanno Kruse. 2023. ‘Life-Course Differences in Occupational Mobility Between Vocationally and Generally Trained Workers in Germany’. Sociological Science 10:857–79
 [Replication file](https://github.com/viktor-decker/occupational-mobility).
   
   
