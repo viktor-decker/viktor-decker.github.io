@@ -8,7 +8,11 @@ nav: true
 nav_order: 1
 ---
 
-<h3>_Published:_</h3><h3>**Life-Course Differences in Occupational Mobility Between Vocationally and Generally Trained Workers in Germany**</h3>
+_In preperation for submission:_**How routine tasks affect labor market inequalities between vocational and tertiary graduates over the career**
+
+How do routine tasks shape disparities in income and employment prospects between workers with vocational and tertiary educational qualifications? While existing research predominantly emphasizes skill differentials as the primary driver, this study proposes that group differences in the prevalence and returns to routine tasks contribute to existing disparities. Using decomposition methods on data from the German Socio-Economic Panel and the BiBB/BAuA Employment Survey, we examine how compositional differences in routine task performance between vocational and tertiary graduates impact differences in labor market outcomes over individuals' careers. We find that vocationally trained workers tend to perform more routine tasks than their university-educated counterparts. This compositional difference explains part of the income gap but does not affect unemployment risk. While group-specific levels of routine task intensity remain relatively stable, the returns to these tasks diminish over the life course, contributing substantially to the widening income gap between vocational and tertiary graduates over their careers.
+
+_Published:_**Life-Course Differences in Occupational Mobility Between Vocationally and Generally Trained Workers in Germany**
 
 Vocational education is considered beneficial to young workers entering the labor market
 but disadvantageous late in their careers. Many studies assume that late-career disadvantages stem

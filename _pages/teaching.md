@@ -15,5 +15,27 @@ Currently I also consider giving a bachelor thesis seminar which would involve s
 
 <!-- Embed a Google Form survey -->
 <div class="survey">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2CtyRZDGqGEL8ZfW15Pj5RKNwJRTBNc2PaUFHGWSbkSIEpQ/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe class="custom-survey" src="https://docs.google.com/forms/d/e/1FAIpQLSf2CtyRZDGqGEL8ZfW15Pj5RKNwJRTBNc2PaUFHGWSbkSIEpQ/viewform?embedded=true" width="480" height="360" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
+
+.custom-survey {
+  width: 100%;
+  height: 600px;
+  border: none;
+}
+
+.custom-survey::shadow .freebirdFormviewerViewHeaderHeader {
+  display: none;
+}
+
+.custom-survey::shadow .freebirdFormviewerViewHeaderTitleRow {
+  display: none;
+}
+
+/* Additional custom styles */
+.custom-survey::shadow .freebirdFormviewerViewHeaderThemeIcon,
+.custom-survey::shadow .freebirdFormviewerViewHeaderEmailCollectionBanner,
+.custom-survey::shadow .freebirdFormviewerViewHeaderRequiredLegend {
+  display: none;
+}
+
