@@ -9,7 +9,9 @@ nav_order: 4
 
 Decker, Viktor, Thijs Bol, and Hanno Kruse. 2023. ‘Life-Course Differences in Occupational Mobility Between Vocationally and Generally Trained Workers in Germany’. Sociological Science 10:857–79
 [Replication file](https://github.com/viktor-decker/occupational-mobility).
-  
+
+
+[Replication file](https://github.com/viktor-decker/viktor-decker.github.io).
   
   
   
