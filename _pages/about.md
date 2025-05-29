@@ -4,7 +4,7 @@ title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website with publications, code and all that...
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html'>University of Amsterdam</a>.
+subtitle: PhD Student in Sociology at <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html'>University of Amsterdam</a>.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a sociology PhD student at University of Amsterdam, currently in my third year. I am interested in how education affects careers on the labor market and work in the project "From School to Career: Towards A Career Perspective on the Labor Market Returns to Education (CAREER)" where I examine just that. The project is headed by [Thijs Bol](https://thijsbol.com/). Together with our colleagues we aim to develop a better understanding of workers’ employment trajectories in the context of changing labour markets. My dissertation focuses particularly on the drivers of education-based career inequality such as differences in occupational mobility and task content. Further I am interested in how technological change and other macro-level factors tip the scales.
+I am a sociology PhD student at University of Amsterdam, currently in my fourth year. I am interested in how education affects careers on the labor market and work in the project “From School to Career: Towards A Career Perspective on the Labor Market Returns to Education (CAREER)” where I examine just that. The project is headed by Thijs Bol. Together with our colleagues we aim to develop a better understanding of workers’ employment trajectories in the context of changing labour markets. My dissertation focuses particularly on the drivers of education-based career inequality such as differences in occupational mobility, task content, and further training. I am also interested in how technological change and characteristics of educational systems tip the scales.
 
-Check out our project [website](https://careerproject.eu/) to learn more and follow us on [Twitter](https://twitter.com/CAREER_erc).
+Check out our project [website](https://careerproject.eu/) to learn more.
 
