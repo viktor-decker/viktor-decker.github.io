@@ -10,8 +10,8 @@
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-theme-color: #0076df;
+  --global-hover-color: #0076df;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
@@ -159,8 +159,9 @@ table.table a {
 }
 a:hover,
 table.table a:hover {
-  color: var(--global-theme-color);
-  text-decoration: underline;
+  color: white;
+  background-color: var(--global-theme-color);
+  transition: none;
 }
 a:hover:after :not(.nav-item.dropdown),
 table.table a:hover:after :not(.nav-item.dropdown) {
@@ -299,7 +300,8 @@ blockquote {
   color: var(--global-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
-  color: var(--global-hover-color);
+  color: white;
+  transition: none;
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
@@ -1070,50 +1072,6 @@ strong, b {
 
 .navbar-brand {
   font-family: "Roboto Mono", monospace !important;
-}
-
-a {
-  color: #4A90E2;
-  text-decoration: none;
-}
-
-a:hover,
-a:focus {
-  color: white;
-  background-color: #4A90E2;
-  text-decoration: none;
-  transition: none;
-}
-
-/* Default navbar link */
-.navbar .nav-link {
-  color: black !important;
-  background-color: transparent !important;
-  text-decoration: none !important;
-  transition: none !important;
-}
-
-/* Hover effect for all nav links */
-.navbar .nav-link:hover,
-.navbar .nav-link:focus {
-  color: white !important;
-  background-color: #4A90E2 !important;
-  text-decoration: none !important;
-}
-
-/* Style for active/current nav link */
-.navbar .nav-link.active,
-.navbar .nav-link[aria-current=page] {
-  color: black !important;
-  background-color: transparent !important;
-  text-decoration: none !important;
-}
-
-/* Allow hover effect on current page link */
-.navbar .nav-link.active:hover,
-.navbar .nav-link[aria-current=page]:hover {
-  color: white !important;
-  background-color: #4A90E2 !important;
 }
 
 /*# sourceMappingURL=main.css.map */
