@@ -1059,5 +1059,8 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+body {
+  font-family: "Courier New", Courier, monospace !important;
+}
 
 /*# sourceMappingURL=main.css.map */
