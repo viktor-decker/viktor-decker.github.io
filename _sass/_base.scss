@@ -39,8 +39,9 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    color: white;
+    background-color: var(--global-theme-color);
+    transition: none;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -214,7 +215,8 @@ blockquote {
     color: var(--global-text-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: white;
+      transition: none;
     }
   }
 
