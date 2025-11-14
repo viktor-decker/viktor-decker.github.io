@@ -4,7 +4,7 @@ title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website with publications, code and all that...
 permalink: /
-subtitle: PhD Student in Sociology at <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html'>University of Amsterdam</a>.
+subtitle: PostDoc at <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html](https://www.politik-soziologie.uni-bonn.de/de/ub-startseite?set_language=de'>University of Bonn</a>.
 
 profile:
   align: right
@@ -19,5 +19,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am interested in how education affects careers on the labor market and work in the project [From School to Career: Towards A Career Perspective on the Labor Market Returns to Education (CAREER)](https://careerproject.eu/) where I examine just that. Together with our colleagues we aim to develop a better understanding of workers’ employment trajectories in the context of changing labour markets. My dissertation focuses particularly on the drivers of education-based career inequality such as differences in occupational mobility, task content, and further training. I am also interested in how technological change and characteristics of educational systems tip the scales.
+I am interested in how key life stages—such as schooling and work—shape political attitudes and life outcomes. At University of Bonn, I am affiliated with the chair of political economy held by <a href='https://www.politik-soziologie.uni-bonn.de/de/personal-politikwissenschaft/prof-dr-paul-marx'>Paul Marx</a>.
 
