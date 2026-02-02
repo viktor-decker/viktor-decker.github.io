@@ -19,5 +19,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am interested in how key life stages—such as schooling and work—shape political attitudes and life outcomes. At University of Bonn, I am affiliated with the chair of political economy held by <a href='https://www.politik-soziologie.uni-bonn.de/de/personal-politikwissenschaft/prof-dr-paul-marx'>Paul Marx</a>.
+I am a social scientist interested in how key life stages — such as schooling and work — shape political attitudes and life outcomes. At University of Bonn, I am affiliated with the chair of political economy held by <a href='https://www.politik-soziologie.uni-bonn.de/de/personal-politikwissenschaft/prof-dr-paul-marx'>Paul Marx</a>.
 
