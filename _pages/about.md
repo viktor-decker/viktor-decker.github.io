@@ -4,7 +4,7 @@ title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website with publications, code and all that...
 permalink: /
-subtitle: PostDoc at <a href='www.politikwissenschaft.uni-bonn.de/de/personal/viktor-decker'>University of Bonn</a>.
+subtitle: PostDoc at <a href='https://www.politikwissenschaft.uni-bonn.de/de/personal/viktor-decker'>University of Bonn</a>.
 
 profile:
   align: right
@@ -19,5 +19,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a social scientist interested in how key life stages — such as education and work — shape political attitudes, life outcomes and stratify society. At University of Bonn, I am affiliated with the chair of political economy held by <a href='https://www.politik-soziologie.uni-bonn.de/de/personal-politikwissenschaft/prof-dr-paul-marx'>Paul Marx</a>.
+I am a social scientist interested in how key life stages — such as education and work — shape political attitudes, life outcomes and stratify society. At University of Bonn, I am affiliated with the chair of political economy held by <a href='https://www.politikwissenschaft.uni-bonn.de/de/personal/prof-dr-paul-marx'>Paul Marx</a>.
 
