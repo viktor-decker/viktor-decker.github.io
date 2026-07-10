@@ -15,7 +15,7 @@ footer_text: >
 keywords: viktor decker, github, sociology, sociologist, soziologie, soziologe  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://viktor-decker.github.io  # the base hostname & protocol for your site
 baseurl: /about # the subpath of your site, e.g. /blog/
