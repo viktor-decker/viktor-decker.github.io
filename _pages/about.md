@@ -4,14 +4,14 @@ title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website with publications, code and all that...
 permalink: /
-subtitle: PostDoc at <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html](https://www.politik-soziologie.uni-bonn.de/de/ub-startseite?set_language=de'>University of Bonn</a>.
+subtitle: PostDoc at <a href='www.politikwissenschaft.uni-bonn.de/de/personal/viktor-decker'>University of Bonn</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='mailto: v.v.decker(at)uva.nl'>v.v.decker(at)uva.nl</a></p>
+    <p><a href='mailto: vdecker(at)uni-bonn.de'>vdecker(at)uni-bonn.de</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
